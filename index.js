@@ -25,5 +25,5 @@ var recipes = {}
  obj // { foo: 'bar' }
 
 function recipes() {
-  
-} 
+
+}
